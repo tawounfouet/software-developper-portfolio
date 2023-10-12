@@ -9,7 +9,7 @@ Développement d'un système automatisé de surveillance des prix pour une impor
 - Communication étroite avec l'équipe pour garantir le succès du projet.
 - Utilisation des compétences en Python, ETL, et compétences transversales en gestion de projet et communication.
 
-## Analyser des besoins client pour planifier un projet
+## Analyse des besoins client pour planifier un projet
 Conception et gestion d'un projet en partenariat avec Learn@Home, une association pour le soutien scolaire à distance.
 - Définition des exigences fonctionnelles de l'application en travaillant en étroite collaboration avec Learn@Home pour traduire leurs besoins en fonctionnalités spécifiques.
 - Création de documents clés pour définir les besoins client :
@@ -31,6 +31,18 @@ Conception et développement d'une application de gestion de tournois d'échecs 
 - Utilisation du format JSON pour stocker les données du programme, permettant une facilité de sauvegarde et de relecture des résultats des tournois.
 Création d'un repository GitHub contenant l'ensemble du code source du programme, un fichier HTML généré par flake8-html sans erreurs de peluchage, et un README.md contenant des instructions claires sur la manière d'exécuter le programme, de l'utiliser et de générer un nouveau fichier flake8-html.
 
+
+## Implémentation d'une interface utilisateur dynamique ;
+Conception et développement d'une interface utilisateur dynamique pour l'application web de JustStreamIt, une association spécialisée dans la recommandation de films.
+- Collaboration étroite avec l'équipe de JustStreamIt pour comprendre les besoins et les exigences du projet.
+- Mise en œuvre d'une interface utilisateur inspirée de l'interface de Netflix, comprenant les zones suivantes :
+    - "Meilleur film" : Affichage du film le mieux noté, son titre, un bouton d'accès, et un résumé.
+    - "Films les mieux notés" : Affichage des 7 autres films les mieux notés, avec une fonction de défilement.
+    - "Catégorie 1", "Catégorie 2", "Catégorie 3" : Affichage des 7 films les mieux notés de chaque catégorie.
+- Utilisation de la version locale de l'API OCMovies pour récupérer et afficher en temps réel les données des films, y compris les catégories, les notes IMDb, les images de pochettes, les résumés, etc.
+- Création de fenêtres modales pour afficher des informations détaillées sur un film, y compris la pochette, le genre, la date de sortie, la note IMDb, le réalisateur, la liste des acteurs, la durée, le pays d'origine, le résultat au box-office, et un résumé.
+- Utilisation du vanilla JavaScript pour gérer les événements de la page web, y compris l'ouverture et la fermeture des fenêtres modales.
+- Assurer que l'interface utilisateur fonctionne de manière similaire sur les trois navigateurs les plus utilisés.
 
 
 
