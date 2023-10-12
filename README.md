@@ -20,7 +20,8 @@ Conception et gestion d'un projet en partenariat avec Learn@Home, une associatio
 - Gestion du projet en utilisant les méthodologies agiles, assurant des cycles de développement itératifs et des retours fréquents avec l'équipe.
 - Utilisation de l'outils de conception Figma, pour créer des maquettes fonctionnelles.
 
-##  Logiciel de gestion d'un tournoi d'échecs
+
+## [Logiciel de gestion d'un tournoi d'échecs](https://github.com/tawounfouet/chess-tournament-manager)
 Conception et développement d'une application de gestion de tournois d'échecs pour le club d'échecs local en utilisant des modèles de conception et des bonnes pratiques pour écrire un programme Python ;
 - Utilisation de la programmation orientée objet pour créer des classes modèles pour les entités du programme, y compris les joueurs, les tournois, les matchs et les rondes.
 - Implémentation de la conception Modèle-Vue-Contrôleur (MVC) pour organiser efficacement le code :
