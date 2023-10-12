@@ -19,3 +19,23 @@ Conception et gestion d'un projet en partenariat avec Learn@Home, une associatio
   - Organisation du projet en blocs de fonctionnalités et sous-fonctionnalités avec un tableau kanban sur Trello.
 - Gestion du projet en utilisant les méthodologies agiles, assurant des cycles de développement itératifs et des retours fréquents avec l'équipe.
 - Utilisation de l'outils de conception Figma, pour créer des maquettes fonctionnelles.
+
+##  Logiciel de gestion d'un tournoi d'échecs : Utilisation des modèles de conception et des bonnes pratiques pour écrire un programme Python ;
+Conception et développement d'une application de gestion de tournois d'échecs pour le club d'échecs local.
+- Utilisation de la programmation orientée objet pour créer des classes modèles pour les entités du programme, y compris les joueurs, les tournois, les matchs et les rondes.
+- Implémentation de la conception Modèle-Vue-Contrôleur (MVC) pour organiser efficacement le code :
+- Création de classes de modèles pour les tournois, les joueurs, les matchs et les rondes.
+- Mise en place de vues pour afficher les classements, les appariements et d'autres statistiques.
+- Écriture de contrôleurs pour gérer les données de l'utilisateur, produire les résultats des matchs, lancer de nouveaux tournois, etc.
+- Respect des directives de style de code Python, notamment la PEP 8, pour assurer que le code est propre, lisible et maintenable.
+- Utilisation du format JSON pour stocker les données du programme, permettant une facilité de sauvegarde et de relecture des résultats des tournois.
+Création d'un repository GitHub contenant l'ensemble du code source du programme, un fichier HTML généré par flake8-html sans erreurs de peluchage, et un README.md contenant des instructions claires sur la manière d'exécuter le programme, de l'utiliser et de générer un nouveau fichier flake8-html.
+
+
+
+
+
+
+
+
+
