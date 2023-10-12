@@ -34,7 +34,8 @@ Conception et développement d'une application de gestion de tournois d'échecs 
 Création d'un repository GitHub contenant l'ensemble du code source du programme, un fichier HTML généré par flake8-html sans erreurs de peluchage, et un README.md contenant des instructions claires sur la manière d'exécuter le programme, de l'utiliser et de générer un nouveau fichier flake8-html.
 
 
-## Implémentation d'une interface utilisateur dynamique ;
+## [Implémentation d'une interface utilisateur dynamique ](https://github.com/tawounfouet/just-streamit-movies-frontend)
+
 Conception et développement d'une interface utilisateur dynamique pour l'application web de JustStreamIt, une association spécialisée dans la recommandation de films.
 - Collaboration étroite avec l'équipe de JustStreamIt pour comprendre les besoins et les exigences du projet.
 - Mise en œuvre d'une interface utilisateur inspirée de l'interface de Netflix, comprenant les zones suivantes :
