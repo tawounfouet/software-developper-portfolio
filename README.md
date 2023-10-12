@@ -1,7 +1,7 @@
 # software-developper-portfolio
 
 
-## Projet en Analyse Marketing : Gestion des données avec des scripts Python 
+## Analyse Marketing : Gestion des données avec des scripts Python 
 - Développement d'un système automatisé de surveillance des prix pour une importante librairie en ligne, Books Online.
 - Création d'un scraper en Python pour extraire les informations tarifaires des livres d'un concurrent, Books to Scrape.
 - Mise en place d'un pipeline ETL pour gérer les données extraites, y compris l'extraction, la transformation et le chargement des données.
