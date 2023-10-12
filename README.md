@@ -1,9 +1,7 @@
 # software-developper-portfolio
 Construire des applications web en utilisant le langage de programmation Python et les framework Django & Flask.
 
-## 
-
-[Gestion des données avec des scripts Python](https://github.com/tawounfouet/programme-scraping-python)
+## [Gestion des données avec des scripts Python](https://github.com/tawounfouet/programme-scraping-python)
 Développement d'un système automatisé de surveillance des prix pour une importante librairie en ligne, Books Online.
 - Création d'un scraper en Python pour extraire les informations tarifaires des livres d'un concurrent, Books to Scrape.
 - Mise en place d'un pipeline ETL pour gérer les données extraites, y compris l'extraction, la transformation et le chargement des données.
